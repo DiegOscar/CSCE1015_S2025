@@ -10,3 +10,7 @@ asdf
 
 ## Favorite Professor
 $(YOUR_FAVORITE_PROFESSOR)
+## EUID
+ojd0014
+## Favorite Professor
+Akhil Reddy Motakatla
